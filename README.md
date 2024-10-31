@@ -11,3 +11,7 @@
 ### BLE-MIDI by lathoub
 
 * Optional BLE transport?
+
+### Adafruit PN532 by Adafruit
+
+* Library for reading/writing using the PN523 
